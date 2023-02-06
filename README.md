@@ -1,2 +1,2 @@
 # Recipes
-My HTML Knowledge wrap up and Git version control practices
+Basic html page with no css style added to summarize my html knowledge.
